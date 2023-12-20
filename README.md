@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning 
-compiler/ functional programming
+web development
 - 📫 How to reach me: 
 email: thisiswillchen@gmail.com
 
