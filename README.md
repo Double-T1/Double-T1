@@ -10,7 +10,7 @@ email: thisiswillchen@gmail.com
 
 [Codepen](https://codepen.io/your-work) 
 
-[FreeCodeCamp](https://www.freecodecamp.org/enjoyit) 
+[Freecodecamp](https://www.freecodecamp.org/enjoyit) 
 
 
 <!--
