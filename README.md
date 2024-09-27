@@ -6,9 +6,9 @@ web development
 email: thisiswillchen@gmail.com
 
 
-[Leetcode](https://leetcode.com/u/Double-T1/)
-[Codepen](https://codepen.io/your-work)
-[FreeCodeCamp](https://www.freecodecamp.org/enjoyit)
+[Leetcode](https://leetcode.com/u/Double-T1/) 
+[Codepen](https://codepen.io/your-work) 
+[FreeCodeCamp](https://www.freecodecamp.org/enjoyit) 
 
 
 <!--
