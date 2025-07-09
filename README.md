@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning 
-web development
+- 🌱 I work as a Software Engineer
 - 📫 How to reach me: 
 email: thisiswillchen@gmail.com
 
